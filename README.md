@@ -3,7 +3,7 @@
 
 ## Original Data(원본 데이터)
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10
-Original data is not 
+Original data is not pre-processed
 
 ## Data Pre-processing(데이터 전처리)
 1. Feature's name is modified<br>
