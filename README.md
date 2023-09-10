@@ -32,10 +32,13 @@ DecisionTree, GradientBoostingClassifier 이용하여 분석을 진행함 <br>
 2. 국내 여행지역 관심도 데이터 <br>
 K-Means Clustering, Deicision Tree, RandomForest, XGBoost 이용하여 분석을 진행함 <br>
 * K-means Clustering <br>
-
- * 각 군집별 성별, 나이, 응답지역, 가구소득의 분포
-
- * 각 군집별 지역에 대한 관심도
+![clustering_k3](imgs/clustering_k3.png)
+ * 각 군집별 성별, 나이, 응답지역, 가구소득의 분포 <br>
+   ![cluster_personal_info](imgs/cluster_personal_info.png)
+ * 각 군집별 지역에 대한 관심도 <br>
+   ![cluster0_interest](imgs/cluster0_interest.png)
+   ![cluster1_interest](imgs/cluster1_interest.png)
+   ![cluster2_interest](imgs/cluster2_interest.png)
 
 ## 활용방안
 국내 관광객 데이터를 활용한 여행지 선호도 분석 및 예측을 통해 소비자의 니즈에 적합한 여행지를 추천해주는 서비스를 제공할 수 있을 것이다. <br>
