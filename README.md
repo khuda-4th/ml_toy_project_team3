@@ -27,10 +27,19 @@ original data: '많이 작아졌다', '약간 작아졌다', '예전과 비슷�
 pre-processed data: 0, 1, 2, 3, 4
 
 ## Modeling(모델링)
-1. 숙박 여행 유형 데이터
+1. 숙박 여행 유형 데이터 <br>
 DecisionTree, GradientBoostingClassifier 이용하여 분석을 진행함 <br>
 2. 국내 여행지역 관심도 데이터 <br>
 K-Means Clustering, Deicision Tree, RandomForest, XGBoost 이용하여 분석을 진행함 <br>
+* K-means Clustering <br>
+
+ * 각 군집별 성별, 나이, 응답지역, 가구소득의 분포
+
+ * 각 군집별 지역에 대한 관심도
+
+## 활용방안
+국내 관광객 데이터를 활용한 여행지 선호도 분석 및 예측을 통해 소비자의 니즈에 적합한 여행지를 추천해주는 서비스를 제공할 수 있을 것이다. <br>
+또한 여행 소비자를 정확히 타겟팅하여 코로나19 이후 주춤했던 국내 여행 감소를 해결하는 데 간접적으로 기여할 수 있을 것이다. <br>
    
 ## Overview
 To analyze about region in Korea, we launched this project!
