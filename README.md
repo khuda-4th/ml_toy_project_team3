@@ -5,6 +5,15 @@
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10<br>
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=b44da660-5892-11ec-8ee4-95f65f846b27<br>
 
+## Position
+| Member(팀원) | Part(역할) | 깃헙주소 |
+|----------|----------|----------|
+|김민석|모델링|-|
+|김민아|전처리/EDA|-|
+|김치연|전처리/EDA|-|
+|류여진|모델링|-|
+|이혁승|전처리/EDA|-|
+|조장현|모델링|https://github.com/cho-jang-hyun|
 
 ## EDA (탐색적 데이터 분석)
 EDA_interest_final.ipynb, EDA_lodgment_final.ipynb에 진행과정이 나와있습니다.
